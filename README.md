@@ -42,15 +42,18 @@ RoadRide is a 2D car-avoidance game built with Python and Pygame. Your goal is t
 🚀 How to Run
 
 1.Clone the repository or download the files
-  -git clone https://github.com/Hubercikks/RoadGame.git
+
+    git clone https://github.com/Hubercikks/RoadGame.git
   
-  -cd RoadGame
+    cd RoadGame
   
 2.Install the required dependencies
-  -pip install -r requirements.txt
+
+    pip install -r requirements.txt
   
 3.Run the game
-  -python main.py
+
+    python main.py
 
 🎮 Controls
 Arrow keys – move the car
